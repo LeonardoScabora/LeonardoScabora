@@ -1,7 +1,6 @@
 ## Sobre
 
 - 💻 Programador Fullstack.
-- 🎓 Cursando Ciência da Computação.
 
 ## Habilidades
 
