@@ -5,7 +5,7 @@
 ## Habilidades
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![React](https://img.shields.io/badge/-React-333333?style=flat)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
