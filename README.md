@@ -16,15 +16,6 @@
 
 <br/>
 
-## Github stats:
-
-<div>
-<a href="https://github.com/LeonardoScabora" title="Perfil do Leonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoScabora&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoScabora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</a>
-</div>
-
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-scabora-982326218)](https://www.linkedin.com/in/leonardo-scabora-982326218)
