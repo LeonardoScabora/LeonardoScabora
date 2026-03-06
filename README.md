@@ -68,7 +68,7 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-![Contribuições](https://ghchart.rshah.org/leonardoscabora)
+![Contribuicoes](https://ghchart.rshah.org/leonardoscabora)
 
 </div>
 
