@@ -10,11 +10,7 @@
 
 ### 👋 Olá! Eu sou o Leonardo
 
-💻 Desenvolvedor Fullstack apaixonado por criar soluções completas,  
-do banco de dados à interface do usuário.
-
-🎯 Foco em **Java** no backend e **React/Angular** no frontend  
-🐳 Amante de boas práticas, clean code e arquiteturas escaláveis  
+💻 Desenvolvedor Fullstack apaixonado por codar.
 🚀 Sempre aprendendo e evoluindo
 
 </div>
