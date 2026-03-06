@@ -68,7 +68,7 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoscabora&theme=github-compact&hide_border=true&area=true)
+![Contribuições](https://ghchart.rshah.org/leonardoscabora)
 
 </div>
 
