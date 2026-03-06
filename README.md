@@ -1,21 +1,92 @@
-## Sobre
+<div align="center">
 
-- 💻 Programador Fullstack.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonardo%20Scabora&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer&descAlignY=55&descAlign=50" />
 
-## Habilidades
+</div>
 
-![Java](https://img.shields.io/badge/JAVA-333333?style=flat)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+---
 
-<br/>
+<div align="center">
 
-## Contato
+### 👋 Olá! Eu sou o Leonardo
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-scabora-982326218)](https://www.linkedin.com/in/leonardo-scabora-982326218)
+💻 Desenvolvedor Fullstack apaixonado por criar soluções completas,  
+do banco de dados à interface do usuário.
+
+🎯 Foco em **Java** no backend e **React/Angular** no frontend  
+🐳 Amante de boas práticas, clean code e arquiteturas escaláveis  
+🚀 Sempre aprendendo e evoluindo
+
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-scabora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-scabora&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo-scabora&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/leonardo-scabora/leonardo-scabora/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-scabora-982326218)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardo-scabora)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<img src="https://komarev.com/ghpvc/?username=leonardo-scabora&color=blueviolet&style=for-the-badge&label=VISITANTES" />
+
+</div>
