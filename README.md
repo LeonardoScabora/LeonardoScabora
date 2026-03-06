@@ -64,16 +64,6 @@ do banco de dados à interface do usuário.
 
 ---
 
-## 📊 Contribuições
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoscabora&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <div align="center">
