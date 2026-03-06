@@ -68,7 +68,7 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-![Snake animation](https://github.com/leonardoscabora/leonardoscabora/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/leonardoscabora/Generate-Snake-Animation/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
