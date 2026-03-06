@@ -49,14 +49,14 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-scabora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-scabora&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoscabora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoscabora&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo-scabora&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoscabora&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -66,7 +66,7 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-![Snake animation](https://github.com/leonardo-scabora/leonardo-scabora/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/leonardoscabora/leonardoscabora/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -76,8 +76,8 @@ do banco de dados à interface do usuário.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-scabora-982326218)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardo-scabora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoscabora-982326218)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardoscabora)
 
 </div>
 
@@ -87,6 +87,6 @@ do banco de dados à interface do usuário.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-<img src="https://komarev.com/ghpvc/?username=leonardo-scabora&color=blueviolet&style=for-the-badge&label=VISITANTES" />
+<img src="https://komarev.com/ghpvc/?username=leonardoscabora&color=blueviolet&style=for-the-badge&label=VISITANTES" />
 
 </div>
