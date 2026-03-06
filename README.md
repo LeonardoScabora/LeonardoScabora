@@ -64,11 +64,11 @@ do banco de dados à interface do usuário.
 
 ---
 
-## 🐍 Contribuições
+## 📊 Contribuições
 
 <div align="center">
 
-![Snake animation](https://github.com/leonardoscabora/Generate-Snake-Animation/blob/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
