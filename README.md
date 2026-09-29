@@ -10,8 +10,7 @@
 
 ### 👋 Olá! Eu sou o Leonardo
 
-💻 Desenvolvedor Fullstack apaixonado por codar.
-🚀 Sempre aprendendo e evoluindo
+Desenvolvedor Fullstack apaixonado por tecnologia. Sempre aprendendo e evoluindo
 
 </div>
 
